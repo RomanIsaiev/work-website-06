@@ -965,6 +965,8 @@ p {
 .question {
   background-color: var(--white-text-color);
   border-radius: 15px;
+
+  cursor: pointer;
 }
 
 .question:last-child {
@@ -1255,6 +1257,8 @@ p {
   border: none;
 
   animation: glowing 1300ms infinite;
+
+  cursor: pointer;
 }
 
 @keyframes glowing {
@@ -1369,6 +1373,8 @@ p {
   margin-right: auto;
 
   margin-bottom: 10px;
+
+  cursor: pointer;
 }
 
 .question-two:last-child {
@@ -1520,6 +1526,8 @@ p {
 
   background: none;
   border: none;
+
+  cursor: pointer;
 }
 
 .next {
@@ -1529,6 +1537,8 @@ p {
 
   background: none;
   border: none;
+
+  cursor: pointer;
 }
 
 @media screen and (min-width: 768px) {
